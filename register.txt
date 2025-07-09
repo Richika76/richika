@@ -2,6 +2,8 @@
 <html>
 <head>
 <title>registration page</title>
+firstname:
+<input type="text" name="firstname="><br><br>
 welcome to devops
 </head>
 </html>
