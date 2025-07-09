@@ -1,0 +1,7 @@
+<!Doctype html>
+<html>
+<head>
+<title>registration page</title>
+welcome to devops
+</head>
+</html>

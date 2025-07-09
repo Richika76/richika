@@ -1,0 +1,7 @@
+<!doctype html>
+<html>
+<head>
+<title>sample</title>
+welcome to devops lab
+</head>
+</html>
